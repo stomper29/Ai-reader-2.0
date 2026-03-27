@@ -1,0 +1,4 @@
+anthropic
+alpaca-trade-api
+schedule
+requests
